@@ -1,8 +1,8 @@
 ## Food
-- (expand here)
+- Tuna (anything with tuna)
 
 ## Drinks
-- (expand here)
+- White wine
 
 ## Ideas
 - The beach
