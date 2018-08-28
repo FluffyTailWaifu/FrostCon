@@ -4,5 +4,8 @@
 ## Drinks
 - (expand here)
 
-## Etc
-- (Etc..)
+## Ideas
+- The beach
+- Competative Tourament
+- Board Games
+- Etc...
