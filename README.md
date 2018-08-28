@@ -7,3 +7,12 @@ Contributing in 5 easy steps.
     1. [Create pull request](https://frostcraft.is-for.me/i/kjk1.png)
     2. [Submit pull request](https://frostcraft.is-for.me/i/3ho1.png)
 5. Done!
+
+# Style/Formatting
+Sections should be formatted with `## name`
+
+Then each item listed as part of a list `- item`
+
+If you are unsure of an item put `(?)` at the end of the sentence
+
+Like so `- cupcakes (?)`
