@@ -4,15 +4,12 @@
 
 ## Drinks
 - Soda
-- Soda
-- Soap
-- Soap
-- Soop
-- Soup
 - white wine what
 
 ## Ideas
-- The beach
+- The Beach
 - Competative Tourament
-- Board Games
-- Etc...
+  - Mario Kart
+  - Smash Bros?
+- Board Games?
+- Card Games?
