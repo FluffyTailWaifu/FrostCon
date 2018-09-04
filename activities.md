@@ -4,12 +4,16 @@
 - Catering from
   - Chik-Fil-A?
   - Todo: Add resteraunts
-- Tuna (anything with tuna)
-- https://i.kym-cdn.com/photos/images/newsfeed/001/265/711/24e.jpg (Very important that it's the lolis)
+- Tuna
+- Pizza
+- http://www.isbilen.no/products/lol-is/
 
 ## Drinks
 - Soda
-- white wine what
+- White wine
+- Lemonade
+- Tea
+- Vodka?
 
 ## Ideas
 - The Beach
