@@ -13,12 +13,19 @@
 - White wine
 - Lemonade
 - Tea
-- Vodka?
+- Vodka!
 
 ## Ideas
+- Truth or dare
 - The Beach
 - Competative Tourament
   - Mario Kart
   - Smash Bros?
-- Board Games?
-- Card Games?
+- Board Games
+  - Connect 4
+  - Clue
+  - Drunk Jenga
+  - The Dark Souls Board Game
+- Card Games
+  - Strip Poker
+  - Cards against humanity
